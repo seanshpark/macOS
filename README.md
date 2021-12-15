@@ -1,0 +1,2 @@
+# macOS
+problems and solutions
